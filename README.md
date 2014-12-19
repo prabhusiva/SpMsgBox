@@ -7,7 +7,10 @@ you can add the Jquery file and Css in your project and simply call the SpMsgBox
 
 You can Customize the dialog what you like!..  <br>
 For Demo :http://www.prabhusiva.in/2014/12/jmsgbox-examples.html  <br>
-Simply add $.SPMsgBox.Show(Options);  <br>
+
+Simply add in your web page in any event.. <br>
+###Syntax:  <br>
+$.SPMsgBox.Show(Options);  <br>
 
 Options=  {   <br>
   "type": "success",<br>
