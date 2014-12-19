@@ -30,5 +30,7 @@ Options=  {   <br>
   "Msg": "Customized alert Box for your Website!",<br>
   "title": "sample"<br>
 }<br><br>
-####Dependencies: <br> Jquery Above 1.11.1 versions</br>
+####Dependencies: <br>
+Jquery Above 1.11.1 versions </br>
+You have to include the Jquery for this SpMsgBox...
 
