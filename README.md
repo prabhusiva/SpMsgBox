@@ -1,8 +1,8 @@
 SpMsgBox
 ========
 
-Model Customized Dialog for Web Applications, you can add the Jquery file and Css in your project and simply call the SpMsgBox for display a Dialog.  </br>
-========
+##Model Customized Dialog for Web Applications, you can add the Jquery file and Css in your project and simply call the SpMsgBox for display a Dialog.  </br>
+ 
 
 You can Customize the dialog what you like!..  </br>
 For Demo :http://www.prabhusiva.in/2014/12/jmsgbox-examples.html  </br>
